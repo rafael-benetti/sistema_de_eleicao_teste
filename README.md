@@ -1,5 +1,5 @@
 # Base44 Project do Cauã
-Projeto versão: 1.0.0
+Projeto versão: 1.0.1
 
 Use this repository to run and edit the app locally, then publish changes back through Base44.
 
